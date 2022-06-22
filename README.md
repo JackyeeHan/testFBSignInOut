@@ -14,4 +14,4 @@
 
 登入成功後 Label 會改變，按下登出則回到第一個畫面
 
-![image](FBSignINP4.png](https://github.com/JackyeeHan/testFBSignInOut/blob/main/FBSignINP4.png)
+![image](https://github.com/JackyeeHan/testFBSignInOut/blob/main/FBSignINP4.png)
